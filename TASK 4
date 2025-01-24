@@ -1,0 +1,31 @@
+# Codsoft-Task-4
+**COMPANY**: CODSOFT
+
+**NAME**: M.PONANUPRIYA
+
+**INTERN ID**: CS24NY361585
+
+**DOMAIN**: PYTHIN PROGRAMMING
+
+**BATCH DURATION**: DECEMBER-25,2025 TO JANUARY-25,2025
+
+# OUTPUT FOR TASK 4:
+Welcome to Rock-Paper-Scissors!
+
+Options: rock, paper, scissors
+Enter your choice: rock
+You chose: rock
+Computer chose: scissors
+You win this round!
+Score: You 1 - 0 Computer
+Do you want to play again? (yes/no): yes
+
+Options: rock, paper, scissors
+Enter your choice: paper
+You chose: paper
+Computer chose: paper
+It's a tie!
+Score: You 1 - 0 Computer
+Do you want to play again? (yes/no): no
+Thanks for playing! Final score:
+You: 1, Computer: 0
